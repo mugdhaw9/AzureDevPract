@@ -1,0 +1,2 @@
+# AzureDevPract
+Azure DevOps practice
